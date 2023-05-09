@@ -1,4 +1,4 @@
 # CISC-322
-Assignments for 322
-Essay analyzing concrete and conceptual architecure of Bitcoin Core
-https://cisc322g20.godaddysites.com/assignment
+\n Assignments for 322
+\n Essay analyzing concrete and conceptual architecure of Bitcoin Core
+\n https://cisc322g20.godaddysites.com/assignment
